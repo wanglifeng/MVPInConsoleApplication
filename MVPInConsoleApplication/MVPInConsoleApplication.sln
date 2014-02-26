@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVPInConsoleApplication", "MVPInConsoleApplication\MVPInConsoleApplication.csproj", "{E22C2794-4335-413C-ADCF-A8733364BED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E22C2794-4335-413C-ADCF-A8733364BED1}.Debug|x86.ActiveCfg = Debug|x86
+		{E22C2794-4335-413C-ADCF-A8733364BED1}.Debug|x86.Build.0 = Debug|x86
+		{E22C2794-4335-413C-ADCF-A8733364BED1}.Release|x86.ActiveCfg = Release|x86
+		{E22C2794-4335-413C-ADCF-A8733364BED1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MVPInConsoleApplication\MVPInConsoleApplication.csproj
+	EndGlobalSection
+EndGlobal

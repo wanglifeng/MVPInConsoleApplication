@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVPInConsoleApplication\Program.cs">
+    <Files>
+      <File FileName="MVPInConsoleApplication\Program.cs" Line="10" Column="9" />
+      <File FileName="MVPInConsoleApplication\IView.cs" Line="7" Column="32" />
+      <File FileName="MVPInConsoleApplication\DataController.cs" Line="14" Column="36" />
+      <File FileName="C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets" Line="977" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
